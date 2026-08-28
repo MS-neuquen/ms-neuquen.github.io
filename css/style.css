@@ -12,7 +12,7 @@
   --font-title: 'Poppins', sans-serif;
   --font-body: 'Inter', sans-serif;
 
-  --header-height: 72px;
+  --header-height: 88px;
   --utility-height: 36px;
 }
 
@@ -172,7 +172,7 @@ h1, h2, h3, h4 {
 }
 
 .header__logo img {
-  height: 48px;
+  height: 68px;
   width: auto;
 }
 
@@ -743,7 +743,7 @@ h1, h2, h3, h4 {
 }
 
 .footer__logo {
-  height: 40px;
+  height: 56px;
   margin-bottom: 14px;
   filter: brightness(0) invert(1);
 }
